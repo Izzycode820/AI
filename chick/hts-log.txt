@@ -1,0 +1,105 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 07 Nov 2024 02:56:31 at https://primepoultryexporters.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://primepoultryexporters.com/ -O1 "C:\My Web Sites\chick" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+02:56:31	Warning: 	Cache: damaged cache, trying to repair
+02:56:31	Warning: 	Cache: 0 bytes successfully recovered in 0 entries
+02:56:31	Warning: 	Cache: error trying to open the cache
+03:04:54	Warning: 	Found for https://primepoultryexporters.com/cart-2/
+03:04:54	Warning: 	File has moved from https://primepoultryexporters.com/cart-2/ to https://primepoultryexporters.com
+03:07:58	Warning: 	Moved Permanently for https://primepoultryexporters.com/?p=1306
+03:07:58	Warning: 	File has moved from https://primepoultryexporters.com/?p=1306 to https://primepoultryexporters.com/about-us/
+03:12:14	Warning: 	Moved Permanently for https://primepoultryexporters.com/?p=1307
+03:12:14	Warning: 	File has moved from https://primepoultryexporters.com/?p=1307 to https://primepoultryexporters.com/store/
+03:12:16	Warning: 	Moved Permanently for https://primepoultryexporters.com/?p=1960
+03:12:16	Warning: 	File has moved from https://primepoultryexporters.com/?p=1960 to https://primepoultryexporters.com/blog/
+03:14:32	Warning: 	Moved Permanently for https://primepoultryexporters.com/?p=1308
+03:14:32	Warning: 	File has moved from https://primepoultryexporters.com/?p=1308 to https://primepoultryexporters.com/contact-us/
+03:14:34	Warning: 	Moved Permanently for https://primepoultryexporters.com/?p=1394
+03:14:34	Warning: 	File has moved from https://primepoultryexporters.com/?p=1394 to https://primepoultryexporters.com/product/frozen-beef-topside/
+03:14:34	Warning: 	Moved Permanently for https://primepoultryexporters.com/?p=1381
+03:14:34	Warning: 	File has moved from https://primepoultryexporters.com/?p=1381 to https://primepoultryexporters.com/product/frozen-beef-chuck/
+03:14:34	Warning: 	Moved Permanently for https://primepoultryexporters.com/?p=1375
+03:14:34	Warning: 	File has moved from https://primepoultryexporters.com/?p=1375 to https://primepoultryexporters.com/product/frozen-beef-brisket/
+03:14:34	Warning: 	Moved Permanently for https://primepoultryexporters.com/?p=1372
+03:14:34	Warning: 	File has moved from https://primepoultryexporters.com/?p=1372 to https://primepoultryexporters.com/product/beef-hind-quarter-copy/
+03:14:34	Warning: 	Moved Permanently for https://primepoultryexporters.com/?p=1365
+03:14:34	Warning: 	File has moved from https://primepoultryexporters.com/?p=1365 to https://primepoultryexporters.com/product/whole-chicken-griller/
+03:14:34	Warning: 	Moved Permanently for https://primepoultryexporters.com/?p=1346
+03:14:34	Warning: 	File has moved from https://primepoultryexporters.com/?p=1346 to https://primepoultryexporters.com/product/frozen-chicken-feet/
+03:14:35	Warning: 	Moved Permanently for https://primepoultryexporters.com/?p=1340
+03:14:35	Warning: 	File has moved from https://primepoultryexporters.com/?p=1340 to https://primepoultryexporters.com/product/frozen-chicken-breast/
+03:14:35	Warning: 	Moved Permanently for https://primepoultryexporters.com/?p=87
+03:14:35	Warning: 	File has moved from https://primepoultryexporters.com/?p=87 to https://primepoultryexporters.com/product/chicken-drumstick/
+03:14:35	Warning: 	Moved Permanently for https://primepoultryexporters.com/?p=1413
+03:14:35	Warning: 	File has moved from https://primepoultryexporters.com/?p=1413 to https://primepoultryexporters.com/product/frozen-pork-neck/
+03:14:35	Warning: 	Moved Permanently for https://primepoultryexporters.com/?p=1410
+03:14:35	Warning: 	File has moved from https://primepoultryexporters.com/?p=1410 to https://primepoultryexporters.com/product/frozen-pork-loins/
+03:14:36	Warning: 	Moved Permanently for https://primepoultryexporters.com/?p=1403
+03:14:36	Warning: 	File has moved from https://primepoultryexporters.com/?p=1403 to https://primepoultryexporters.com/product/frozen-pork-gammon/
+03:14:36	Warning: 	Moved Permanently for https://primepoultryexporters.com/?p=1400
+03:14:36	Warning: 	File has moved from https://primepoultryexporters.com/?p=1400 to https://primepoultryexporters.com/product/frozen-pork-feet/
+03:14:36	Warning: 	Moved Permanently for https://primepoultryexporters.com/?p=1369
+03:14:36	Warning: 	File has moved from https://primepoultryexporters.com/?p=1369 to https://primepoultryexporters.com/product/beef-hind-quarter/
+03:14:36	Warning: 	Moved Permanently for https://primepoultryexporters.com/?p=1379
+03:14:36	Warning: 	File has moved from https://primepoultryexporters.com/?p=1379 to https://primepoultryexporters.com/product/frozen-beef-carcass/
+03:14:36	Warning: 	Moved Permanently for https://primepoultryexporters.com/?p=1384
+03:14:36	Warning: 	File has moved from https://primepoultryexporters.com/?p=1384 to https://primepoultryexporters.com/product/frozen-beef-flank/
+03:14:36	Warning: 	Moved Permanently for https://primepoultryexporters.com/?p=1386
+03:14:36	Warning: 	File has moved from https://primepoultryexporters.com/?p=1386 to https://primepoultryexporters.com/product/frozen-beef-hearts/
+03:14:37	Warning: 	Moved Permanently for https://primepoultryexporters.com/?p=1389
+03:14:37	Warning: 	File has moved from https://primepoultryexporters.com/?p=1389 to https://primepoultryexporters.com/product/frozen-beef-kidney/
+03:14:37	Warning: 	Moved Permanently for https://primepoultryexporters.com/?p=1391
+03:14:37	Warning: 	File has moved from https://primepoultryexporters.com/?p=1391 to https://primepoultryexporters.com/product/frozen-beef-rumps/
+03:14:37	Warning: 	Moved Permanently for https://primepoultryexporters.com/?p=1327
+03:14:37	Warning: 	File has moved from https://primepoultryexporters.com/?p=1327 to https://primepoultryexporters.com/product/chicken-leg-quarter/
+03:14:37	Warning: 	Moved Permanently for https://primepoultryexporters.com/?p=1332
+03:14:37	Warning: 	File has moved from https://primepoultryexporters.com/?p=1332 to https://primepoultryexporters.com/product/frozen-2-joint-wing/
+03:14:37	Warning: 	Moved Permanently for https://primepoultryexporters.com/?p=1336
+03:14:37	Warning: 	File has moved from https://primepoultryexporters.com/?p=1336 to https://primepoultryexporters.com/product/frozen-3-joint-wing/
+03:14:37	Warning: 	Moved Permanently for https://primepoultryexporters.com/?p=1349
+03:14:37	Warning: 	File has moved from https://primepoultryexporters.com/?p=1349 to https://primepoultryexporters.com/product/frozen-chicken-gizzards/
+03:14:37	Warning: 	Moved Permanently for https://primepoultryexporters.com/?p=1352
+03:14:37	Warning: 	File has moved from https://primepoultryexporters.com/?p=1352 to https://primepoultryexporters.com/product/frozen-chicken-hearts/
+03:14:37	Warning: 	Moved Permanently for https://primepoultryexporters.com/?p=1355
+03:14:37	Warning: 	File has moved from https://primepoultryexporters.com/?p=1355 to https://primepoultryexporters.com/product/frozen-chicken-livers/
+03:14:38	Warning: 	Moved Permanently for https://primepoultryexporters.com/?p=1358
+03:14:38	Warning: 	File has moved from https://primepoultryexporters.com/?p=1358 to https://primepoultryexporters.com/product/frozen-chicken-paws/
+03:14:38	Warning: 	Moved Permanently for https://primepoultryexporters.com/?p=1362
+03:14:38	Warning: 	File has moved from https://primepoultryexporters.com/?p=1362 to https://primepoultryexporters.com/product/frozen-middle-joint-wing/
+03:14:38	Warning: 	Moved Permanently for https://primepoultryexporters.com/?p=1397
+03:14:38	Warning: 	File has moved from https://primepoultryexporters.com/?p=1397 to https://primepoultryexporters.com/product/frozen-pork-fat/
+03:14:38	Warning: 	Moved Permanently for https://primepoultryexporters.com/?p=1406
+03:14:38	Warning: 	File has moved from https://primepoultryexporters.com/?p=1406 to https://primepoultryexporters.com/product/frozen-pork-hearts/
+03:14:38	Warning: 	Moved Permanently for https://primepoultryexporters.com/?p=1416
+03:14:38	Warning: 	File has moved from https://primepoultryexporters.com/?p=1416 to https://primepoultryexporters.com/product/frozen-pork-ribs/
+03:14:38	Warning: 	Moved Permanently for https://primepoultryexporters.com/?p=1419
+03:14:38	Warning: 	File has moved from https://primepoultryexporters.com/?p=1419 to https://primepoultryexporters.com/product/frozen-pork-sausages/
+03:14:38	Warning: 	Moved Permanently for https://primepoultryexporters.com/?p=1467
+03:14:38	Warning: 	File has moved from https://primepoultryexporters.com/?p=1467 to https://primepoultryexporters.com/product/frozen-pork-tongue/
+03:14:41	Warning: 	Moved Permanently for https://primepoultryexporters.com/?p=2017
+03:14:41	Warning: 	File has moved from https://primepoultryexporters.com/?p=2017 to https://primepoultryexporters.com/frozen-innovation-how-prime-poultry-exporters-is-revolutionizing-the-cold-chain/
+03:14:41	Error: 	"Method Not Allowed" (405) at link https://primepoultryexporters.com/xmlrpc.php (from https://primepoultryexporters.com/frozen-innovation-how-prime-poultry-exporters-is-revolutionizing-the-cold-chain/)
+03:14:52	Warning: 	Moved Permanently for https://primepoultryexporters.com/?p=2005
+03:14:52	Warning: 	File has moved from https://primepoultryexporters.com/?p=2005 to https://primepoultryexporters.com/conquering-global-markets-prime-poultry-exporters-guide-to-international-meat-trade/
+03:14:52	Warning: 	Moved Permanently for https://primepoultryexporters.com/?p=1994
+03:14:52	Warning: 	File has moved from https://primepoultryexporters.com/?p=1994 to https://primepoultryexporters.com/sustainable-meat-production-prime-poultry-exporters-green-initiatives-in-brazil/
+03:14:52	Warning: 	Moved Permanently for https://primepoultryexporters.com/?p=1986
+03:14:52	Warning: 	File has moved from https://primepoultryexporters.com/?p=1986 to https://primepoultryexporters.com/global-gastronomy-10-international-recipes-starring-brazilian-meats/
+03:14:52	Warning: 	Moved Permanently for https://primepoultryexporters.com/?p=1977
+03:14:52	Warning: 	File has moved from https://primepoultryexporters.com/?p=1977 to https://primepoultryexporters.com/from-fazenda-to-freezer-the-quality-journey-of-prime-poultry-exporters-meats/
+03:14:53	Warning: 	Moved Permanently for https://primepoultryexporters.com/?p=1969
+03:14:53	Warning: 	File has moved from https://primepoultryexporters.com/?p=1969 to https://primepoultryexporters.com/halal-and-non-halal-frozen-meat-what-to-know/
+03:14:53	Warning: 	Moved Permanently for https://primepoultryexporters.com/?p=1920
+03:14:53	Warning: 	File has moved from https://primepoultryexporters.com/?p=1920 to https://primepoultryexporters.com/top-quality-frozen-chicken-your-best-choice/
+03:14:53	Warning: 	Moved Permanently for https://primepoultryexporters.com/?p=1925
+03:14:53	Warning: 	File has moved from https://primepoultryexporters.com/?p=1925 to https://primepoultryexporters.com/wholesale-frozen-chicken-suppliers-quality-value/
+03:14:53	Warning: 	Moved Permanently for https://primepoultryexporters.com/?p=1930
+03:14:53	Warning: 	File has moved from https://primepoultryexporters.com/?p=1930 to https://primepoultryexporters.com/trusted-frozen-chicken-suppliers-top-quality-poultry/
+
+HTTrack Website Copier/3.49-2 mirror complete in 18 minutes 23 seconds : 629 links scanned, 582 files written (34843447 bytes overall) [20809192 bytes received at 18865 bytes/sec], 18240610 bytes transferred using HTTP compression in 352 files, ratio 21%, 11.4 requests per connection
+(1 errors, 93 warnings, 0 messages)
